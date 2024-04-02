@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@types/node": "^20.12.2",
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.4.3"
+  }
+}
